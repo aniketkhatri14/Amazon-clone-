@@ -1,2 +1,4 @@
 # Amazon-clone-
-This is a front end clone of Amazon.com  
+This is a non responsive front end clone of Amazon.com  
+<br>
+Auther:-Aniket 
